@@ -1,3 +1,3 @@
 # Testing repo
-public repo for testing Github's api
+Public repo for testing Github's api
 
